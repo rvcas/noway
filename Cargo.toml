@@ -1,6 +1,6 @@
 [package]
 name = "noway"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "CLI tool to download archived pages from the Wayback Machine"
 repository = "https://github.com/rvcas/noway"
