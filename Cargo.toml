@@ -5,7 +5,7 @@ edition = "2024"
 description = "CLI tool to download archived pages from the Wayback Machine"
 repository = "https://github.com/rvcas/noway"
 authors = ["rvcas <x@rvcas.dev>"]
-rust-version = "1.90.0"
+rust-version = "1.89.0"
 license-file = "LICENSE"
 
 [[bin]]
